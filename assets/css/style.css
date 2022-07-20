@@ -384,6 +384,12 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+@media (min-width:1200px){
+  .section-title.width {
+    width: 65%;
+    margin: auto;
+  }
+}
 
 /*--------------------------------------------------------------
 # Facts
